@@ -10,3 +10,11 @@
   3.网络测试方面目前实现了icmp探测主机存活和tcp端口检测，可以多线程ping和同时探测端口是否在线，用于快速检查某设备服务(如http80是否开启)；端口探测支持导入json，方便批量探测
 
 目前只开发了上述功能，可能存在一些bug，看时间和心情再去修了ヾ(•ω•`)o
+
+网卡检测面板
+![image](https://github.com/LOCKDOWN083199/WhiteSpiderTool/assets/133126018/02293449-35b8-4acc-8c92-76b9466ca4b1)
+
+网络调试面板
+![image](https://github.com/LOCKDOWN083199/WhiteSpiderTool/assets/133126018/5cc5581c-efee-487e-b2c9-ba44c74a0915)
+
+
