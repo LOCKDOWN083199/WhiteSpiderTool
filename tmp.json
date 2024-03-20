@@ -1,0 +1,338 @@
+{
+  "VMware Network Adapter VMnet8": {
+    "GUID": "{01105cc8-63b4-48c6-abe9-0bfe2e36dfcc}",
+    "PnPInstanceId": "ROOT\\VMWARE\\0001",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "DhcpIPAddress": "192.168.253.1",
+      "DhcpSubnetMask": "255.255.255.0",
+      "DhcpServer": "192.168.253.254",
+      "Lease": 1800,
+      "LeaseObtainedTime": 1702568841,
+      "T1": 1702569741,
+      "T2": 1702570416,
+      "LeaseTerminatesTime": 1702570641,
+      "AddressType": 0,
+      "IsServerNapAware": 0,
+      "DhcpConnForceBroadcastFlag": 0,
+      "DhcpSubnetMaskOpt": [
+        "255.255.255.0"
+      ],
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "6to4 Adapter": {
+    "GUID": "{07374750-e68b-490e-9330-9fd785cd71b6}"
+  },
+  "VMware Network Adapter VMnet1": {
+    "GUID": "{1322dcec-5146-40d6-b8e1-c5fb7098a600}",
+    "PnPInstanceId": "ROOT\\VMWARE\\0000",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "DhcpIPAddress": "192.168.40.1",
+      "DhcpSubnetMask": "255.255.255.0",
+      "DhcpServer": "192.168.40.254",
+      "Lease": 1800,
+      "LeaseObtainedTime": 1702568841,
+      "T1": 1702569741,
+      "T2": 1702570416,
+      "LeaseTerminatesTime": 1702570641,
+      "AddressType": 0,
+      "IsServerNapAware": 0,
+      "DhcpConnForceBroadcastFlag": 0,
+      "DhcpSubnetMaskOpt": [
+        "255.255.255.0"
+      ],
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "本地连接* 9": {
+    "GUID": "{176e6ae1-ba9a-42cd-be8a-cd91f68c7472}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_NDISWANBH"
+  },
+  "以太网(内核调试器)": {
+    "GUID": "{1f856bc2-f8b3-45f6-af89-17782b99ec47}",
+    "PnPInstanceId": "ROOT\\KDNIC\\0000",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "WLAN": {
+    "GUID": "{2bb78248-29d6-48f1-9f2f-19cb00a592a1}",
+    "PnPInstanceId": "PCI\\VEN_8086&DEV_2723&SUBSYS_16531A56&REV_1A\\4&2f58f4bb&0&00EF",
+    "Type": "wifi",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "DhcpIPAddress": "192.168.31.13",
+      "DhcpSubnetMask": "255.255.255.0",
+      "DhcpServer": "192.168.31.1",
+      "Lease": 43200,
+      "LeaseObtainedTime": 1702565259,
+      "T1": 1702586859,
+      "T2": 1702603059,
+      "LeaseTerminatesTime": 1702608459,
+      "AddressType": 0,
+      "IsServerNapAware": 0,
+      "DhcpConnForceBroadcastFlag": 0,
+      "DhcpNetworkHint": "859616F6D696F553341353",
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0,
+      "DhcpNameServer": "192.168.31.1",
+      "DhcpDefaultGateway": [
+        "192.168.31.1"
+      ],
+      "DhcpSubnetMaskOpt": [
+        "255.255.255.0"
+      ],
+      "DhcpGatewayHardware": b
+      "\xc0\xa8\x1f\x01\x06\x00\x00\x00D\xdfe\x96\\\x14",
+      "DhcpGatewayHardwareCount": 1
+    }
+  },
+  "本地连接* 8": {
+    "GUID": "{2d962930-000c-4d40-9381-b2c802d79204}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_NDISWANIPV6"
+  },
+  "vEthernet (WSL)": {
+    "GUID": "{2e7f8f4b-9489-4572-9e2b-e7713faaaf21}",
+    "PnPInstanceId": "ROOT\\VMS_MP\\0000",
+    "cfg": {
+      "EnableDHCP": 0,
+      "Domain": "",
+      "NameServer": "",
+      "IPAddress": [
+        "172.20.192.1"
+      ],
+      "SubnetMask": [
+        "255.255.240.0"
+      ],
+      "RegistrationEnabled": 0,
+      "EnableMulticast": 0
+    }
+  },
+  "Microsoft IP-HTTPS Platform Interface": {
+    "GUID": "{2ee2c70c-a092-4d88-a654-98c8d7645cd5}"
+  },
+  "本地连接* 1": {
+    "GUID": "{48eda2fc-8663-45a9-9f67-7fca531a2a95}",
+    "PnPInstanceId": "{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\\vwifimp_wfd\\5&906ca8&0&11",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "本地连接* 4": {
+    "GUID": "{5b34e113-4a95-4e39-b0a8-6557b873bca8}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_L2TPMINIPORT"
+  },
+  "本地连接* 6": {
+    "GUID": "{6561389f-549a-4c08-aafd-21a2f8374160}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_PPPOEMINIPORT"
+  },
+  "本地连接* 3": {
+    "GUID": "{68468d03-2a08-4469-be52-f2f249340db9}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_AGILEVPNMINIPORT"
+  },
+  "本地连接* 2": {
+    "GUID": "{6879cc2f-5d06-40f8-bc9b-daeaadde2665}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_SSTPMINIPORT"
+  },
+  "以太网": {
+    "GUID": "{6b4d17b6-d3a8-4cd4-a2f9-f640989799ae}",
+    "PnPInstanceId": "PCI\\VEN_8086&DEV_3101&SUBSYS_0A741028&REV_03\\381428FFFF07331300",
+    "cfg": {
+      "EnableDHCP": 0,
+      "Domain": "",
+      "NameServer": "",
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0,
+      "DhcpIPAddress": "192.168.1.184",
+      "DhcpSubnetMask": "255.255.255.0",
+      "DhcpServer": "192.168.1.1",
+      "Lease": 7200,
+      "LeaseObtainedTime": 1699199279,
+      "T1": 1699202879,
+      "T2": 1699205579,
+      "LeaseTerminatesTime": 1699206479,
+      "AddressType": 0,
+      "IsServerNapAware": 0,
+      "DhcpConnForceBroadcastFlag": 0,
+      "DhcpDefaultGateway": [
+        "192.168.1.1"
+      ],
+      "DhcpSubnetMaskOpt": [
+        "255.255.255.0"
+      ],
+      "DhcpNameServer": "218.85.157.99 218.85.152.99",
+      "DhcpGatewayHardware": b
+      "\xc0\xa8\x01\x01\x06\x00\x00\x00\xe4\xd32\xa7J\x1a",
+      "DhcpGatewayHardwareCount": 1,
+      "DisableDhcpOnConnect": 1,
+      "IPAddress": [
+        "192.168.100.100",
+        "192.168.100.200"
+      ],
+      "SubnetMask": [
+        "255.255.255.0",
+        "255.255.255.0"
+      ],
+      "DefaultGateway": [
+        "192.168.100.254"
+      ],
+      "DefaultGatewayMetric": [
+        "0"
+      ]
+    }
+  },
+  "本地连接* 7": {
+    "GUID": "{724b17e4-09a6-4928-83bd-044986651e32}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_NDISWANIP"
+  },
+  "本地连接* 10": {
+    "GUID": "{771a384c-78b9-4e83-8287-c1fb54670f2d}",
+    "PnPInstanceId": "{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\\vwifimp_wfd\\5&906ca8&0&12",
+    "cfg": {
+      "EnableDHCP": 0,
+      "Domain": "",
+      "NameServer": "",
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "vSwitch (WSL)": {
+    "GUID": "{8b768660-fcd1-41ad-aebc-5bccd0d7d135}",
+    "PnPInstanceId": "ROOT\\VMS_VSMP\\0000"
+  },
+  "蓝牙网络连接": {
+    "GUID": "{90a5cb8a-77d7-45d5-82f1-23488119de42}",
+    "PnPInstanceId": "BTH\\MS_BTHPAN\\6&388d6d45&0&2",
+    "Type": "other",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "Teredo Tunneling Pseudo-Interface": {
+    "GUID": "{93123211-9629-4e04-82f0-ea2e4f221468}"
+  },
+  "以太网 3": {
+    "GUID": "{b9c3b236-4d7a-430e-b06d-7647ce945e34}",
+    "PnPInstanceId": "ROOT\\NET\\0001",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "DhcpServer": "255.255.255.255",
+      "Lease": 0,
+      "LeaseObtainedTime": 1689122466,
+      "T1": 1689122466,
+      "T2": 1689122466,
+      "LeaseTerminatesTime": 1689122466,
+      "AddressType": 0,
+      "IsServerNapAware": 0,
+      "DhcpConnForceBroadcastFlag": 0,
+      "IPAddress": [],
+      "SubnetMask": [],
+      "MTU": 0,
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "以太网 4": {
+    "GUID": "{c8d2e982-2f16-40b6-a97f-49d47a34585d}",
+    "PnPInstanceId": "USB\\VID_05AC&PID_12A8&MI_02\\6&165fc82e&0&0002",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "DhcpIPAddress": "172.20.10.4",
+      "DhcpSubnetMask": "255.255.255.240",
+      "DhcpServer": "172.20.10.1",
+      "Lease": 86400,
+      "LeaseObtainedTime": 1694787290,
+      "T1": 1694830490,
+      "T2": 1694862890,
+      "LeaseTerminatesTime": 1694873690,
+      "AddressType": 0,
+      "IsServerNapAware": 0,
+      "DhcpConnForceBroadcastFlag": 0,
+      "DhcpNameServer": "172.20.10.1",
+      "DhcpDefaultGateway": [
+        "172.20.10.1"
+      ],
+      "DhcpSubnetMaskOpt": [
+        "255.255.255.240"
+      ],
+      "DhcpGatewayHardware": b
+      "\xac\x14\n\x01\x06\x00\x00\x00J5+\x97\x85d",
+      "DhcpGatewayHardwareCount": 1,
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0
+    }
+  },
+  "以太网 2": {
+    "GUID": "{cbdf084c-d5e7-47d5-8a49-43ff43739e0a}",
+    "PnPInstanceId": "ROOT\\NET\\0000",
+    "cfg": {
+      "EnableDHCP": 1,
+      "Domain": "",
+      "NameServer": "",
+      "DhcpIPAddress": "10.200.128.162",
+      "DhcpSubnetMask": "255.255.255.252",
+      "DhcpServer": "10.200.128.161",
+      "Lease": 31536000,
+      "LeaseObtainedTime": 1699265629,
+      "T1": 1715033629,
+      "T2": 1726859629,
+      "LeaseTerminatesTime": 1730801629,
+      "AddressType": 0,
+      "IsServerNapAware": 0,
+      "DhcpConnForceBroadcastFlag": 0,
+      "RegistrationEnabled": 1,
+      "RegisterAdapterName": 0,
+      "DhcpNameServer": "8.8.4.4 8.8.8.8",
+      "DhcpSubnetMaskOpt": [
+        "255.255.255.252"
+      ]
+    }
+  },
+  "wintun": {
+    "GUID": "{e14e49b1-ebcf-43e5-b1b8-798851976e46}",
+    "PnPInstanceId": "SWD\\Wintun\\{E14E49B1-EBCF-43E5-B1B8-798851976E46}",
+    "cfg": {
+      "EnableDHCP": 0,
+      "Domain": "",
+      "NameServer": "114.114.114.114",
+      "IPAddress": [
+        "198.16.0.2"
+      ],
+      "SubnetMask": [
+        "255.255.255.0"
+      ],
+      "DefaultGateway": [],
+      "DefaultGatewayMetric": []
+    }
+  },
+  "本地连接* 5": {
+    "GUID": "{f3a4a1b2-e711-4ee5-9163-8e7555d498cf}",
+    "PnPInstanceId": "SWD\\MSRRAS\\MS_PPTPMINIPORT"
+  }
+}

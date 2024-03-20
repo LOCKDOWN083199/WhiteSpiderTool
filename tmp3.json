@@ -1,0 +1,48 @@
+{
+    "\u4ee5\u592a\u7f51": {
+        "GUID": "{6b4d17b6-d3a8-4cd4-a2f9-f640989799ae}",
+        "PnPInstanceId": "PCI\\VEN_8086&DEV_3101&SUBSYS_0A741028&REV_03\\381428FFFF07331300",
+        "cfg": {
+            "EnableDHCP": 0,
+            "Domain": "",
+            "NameServer": "114.114.114.114,114.114.114.115",
+            "RegistrationEnabled": 1,
+            "RegisterAdapterName": 0,
+            "DhcpIPAddress": "192.168.1.184",
+            "DhcpSubnetMask": "255.255.255.0",
+            "DhcpServer": "192.168.1.1",
+            "Lease": 7200,
+            "LeaseObtainedTime": 1699199279,
+            "T1": 1699202879,
+            "T2": 1699205579,
+            "LeaseTerminatesTime": 1699206479,
+            "AddressType": 0,
+            "IsServerNapAware": 0,
+            "DhcpConnForceBroadcastFlag": 0,
+            "DhcpDefaultGateway": [
+                "192.168.1.1"
+            ],
+            "DhcpSubnetMaskOpt": [
+                "255.255.255.0"
+            ],
+            "DhcpNameServer": "218.85.157.99 218.85.152.99",
+            "DhcpGatewayHardware": "b'\\xc0\\xa8\\x01\\x01\\x06\\x00\\x00\\x00\\xe4\\xd32\\xa7J\\x1a'",
+            "DhcpGatewayHardwareCount": 1,
+            "DisableDhcpOnConnect": 1,
+            "IPAddress": [
+                "192.168.100.100",
+                "192.168.100.200"
+            ],
+            "SubnetMask": [
+                "255.255.255.0",
+                "255.255.255.128"
+            ],
+            "DefaultGateway": [
+                "192.168.100.254"
+            ],
+            "DefaultGatewayMetric": [
+                "0"
+            ]
+        }
+    }
+}
